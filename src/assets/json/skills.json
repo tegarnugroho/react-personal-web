@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "title": "Front-End",
+            "content": "Flutter, Kotlin, React Native, Flutter State Management (Bloc, Cubit, Provider, Getx), Clean Architecture, TDD, Unit Testing"
+        },
+        {
+            "title": "Progamming Languages",
+            "content": "Dart, JavaScript, Java, Kotlin"
+        },
+        {
+            "title": "Tools",
+            "content": "Android Studio, Visual Studio Code, Xcode, Jira, Trello, Asana, Confluence, DBeaver, GitHub, Gitlab, Postman"
+        }
+    ]
+}

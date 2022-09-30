@@ -1,0 +1,25 @@
+.carousel {
+  cursor: grab;
+  overflow: hidden;
+  border-radius: 1rem;
+  height: 440px;
+  background: lightgray;
+}
+.inner-carousel {
+  display: flex;
+}
+.item {
+  min-height: 400px;
+  min-width: 200px;
+  padding: 20px;
+}
+.item img {
+  width: 200px;
+  height: 400px;
+  border-radius: 1rem;
+  pointer-events: none;
+  object-fit: 'cover';
+}
+.project {
+  width: 100%;
+}

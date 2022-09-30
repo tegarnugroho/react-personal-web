@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "companyName": "SMAN Kesamben",
+            "subtitle": "Senior High School",
+            "location": "Jombang, Indonesia",
+            "year": "2010-2013",
+            "type": "university",
+            "desc": "Science Major"
+        },
+        {
+            "companyName": "Brawijaya University",
+            "subtitle": "Bachelor's Degree",
+            "location": "Malang, Indonesia",
+            "year": "2013-2017",
+            "type": "university",
+            "desc": "Informatics Engineering"
+        },
+        {
+            "companyName": "PT Kresna Graha Investama TBK",
+            "subtitle": "Software Engineer Mobile",
+            "location": "Jakarta, Indonesia",
+            "year": "2018-2020",
+            "type": "company",
+            "desc": "Developed the mobile apps for 3 projects."
+        },
+        {
+            "companyName": "PT Ittron Global Teknologi",
+            "subtitle": "Programmer",
+            "location": "Surabaya, Indonesia",
+            "year": "2020-2021",
+            "type": "company",
+            "desc": "Developed the mobile apps for 3 projects."
+        },
+        {
+            "companyName": "PT Danafix Online Indonesia",
+            "subtitle": "Mobile Developer",
+            "location": "Yogyakarta, Indonesia",
+            "year": "2021-2022",
+            "type": "company",
+            "desc": "Developed the mobile apps for 3 projects."
+        },
+        {
+            "companyName": "PT Wolkk Cloud Development",
+            "subtitle": "Flutter Developer",
+            "location": "Bali, Indonesia",
+            "year": "2022-Present",
+            "type": "company",
+            "desc": "Developed the mobile apps for 3 projects."
+        }
+    ]
+}
